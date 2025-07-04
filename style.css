@@ -37,8 +37,8 @@ h1 {
 }
 
 .signatures img {
-  height: 40px;
-  max-width: 120px; 
+  width: 120px;
+  height: auto;
   margin: 10px;
 }
 
